@@ -1,6 +1,6 @@
 # NLP_Disease_Diagnosis_CDS_Prediction
 
-Data Required - For now demo data is provided as Symptoms-Diagnosis.txt
+Data Required - Symptoms-Diagnosis.txt
 Enviroment and Packages required - requirements.txt
 Entire Pipeline Code - BD4H_Final.ipynb
 
