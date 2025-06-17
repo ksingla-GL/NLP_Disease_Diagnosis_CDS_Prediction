@@ -6,7 +6,7 @@
 - Entire Pipeline Code Final- BD4H_Final.ipynb
 
 # Code & Methodology Detailed Implementation 
-1. Collect the symptoms data of patients from MIMIC 3 – split into train, test datasets 
+1. Collect the symptoms data of patients from MIMIC 3 using SQL querying into MIMIC 3 residing in the BigQuery DB – split into train, test datasets 
 2. Load the NLP embedding model – fine tune for general MIMIC Data
 3. Embed the symptoms in training set for patients’ symptom similarities
 4. Use k-fold cross validation on train data to determine optimal similarity threshold
