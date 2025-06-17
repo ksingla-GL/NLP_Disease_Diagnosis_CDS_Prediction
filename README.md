@@ -1,9 +1,9 @@
 # NLP_Disease_Diagnosis_CDS_Prediction
 
-Data Required - Symptoms-Diagnosis.txt 
-Enviroment and Packages required - requirements.txt
-Entire Pipeline Code Initial Draft - CDS_preds.py
-Entire Pipeline Code Final- BD4H_Final.ipynb
+- Data Required - Symptoms-Diagnosis.txt 
+- Enviroment and Packages required - requirements.txt
+- Entire Pipeline Code Initial Draft - CDS_preds.py
+- Entire Pipeline Code Final- BD4H_Final.ipynb
 
 # Code & Methodology Detailed Implementation 
 1. Collect the symptoms data of patients from MIMIC 3 – split into train, test datasets 
